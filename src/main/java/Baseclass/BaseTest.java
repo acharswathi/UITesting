@@ -33,8 +33,8 @@ ShoppingPage shop;
 		
 		Snpage.setFirstname("test");
 		Snpage.setLastname("123");
-		Snpage.setEmail("tester15swa@gmail.com");
-		Snpage.resendEmail("tester15swa@gmail.com");
+		Snpage.setEmail("testerswa22@gmail.com");
+		Snpage.resendEmail("testerswa22@gmail.com");
 		Snpage.setPassword("tesing123");
 		Snpage.confirmPassword("tesing123");
 		Snpage.setmobile("07776602765");
